@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tyler! (@tylerwatsonspence)
+- 👀 I’m interested in coding and software development.
+- 🌱 I’m currently studying Computer Science, Maths, Further Maths and Physics at A level.
+- 💞️ I’m looking to collaborate on personal projects.
+- 📫 How to reach me discord: tylerwatsons instagram: tylerwatsonspence email:tylerdwatsonspence@gmail.com
