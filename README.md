@@ -1,4 +1,4 @@
-Hi, I'm Tyler Watson-Spence 👋
+#Hi, I'm Tyler Watson-Spence 👋
 I’m a 17-year-old aspiring software engineer studying Maths, Further Maths, Physics, and Computer Science. I’m passionate about algorithms, graph theory, and building practical applications.
 
 ---
