@@ -6,13 +6,13 @@ I’m a 17-year-old aspiring software engineer studying Maths, Further Maths, Ph
 ## 💻 Current Projects
 - **BudgetBuddy** – Personal finance tracker built with .NET MAUI and SQL  
 - **LearnChess: AI Tutor** – Chess learning app with a minimax algorithm  
-- **Algorithm Project** – NEA project exploring sorting algorithms and efficiency
+- **Algorithm Project** – Personal project exploring sorting algorithms and efficiency
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Programming Languages:** C#, Python, SQL  
+**Programming Languages:** C#, xaml , SQL  
 **Frameworks & UI:** .NET MAUI, WPF, XAML  
 **Concepts & Algorithms:** Data Structures, Graph Theory, Sorting Algorithms, Minimax, Object-Oriented Programming  
 **Tools & Platforms:** Git, GitHub, Visual Studio, Microcharts, SQLite 
