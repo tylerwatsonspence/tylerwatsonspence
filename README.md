@@ -12,7 +12,7 @@ I’m a 17-year-old aspiring software engineer studying Maths, Further Maths, Ph
 
 ## 🛠️ Skills & Technologies
 
-**Programming Languages:** C#, xaml , SQL  
+**Programming Languages:** C#, SQL, Some Python  
 **Frameworks & UI:** .NET MAUI, WPF, XAML  
 **Concepts & Algorithms:** Data Structures, Graph Theory, Sorting Algorithms, Minimax, Object-Oriented Programming  
 **Tools & Platforms:** Git, GitHub, Visual Studio, Microcharts, SQLite 
