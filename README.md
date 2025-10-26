@@ -8,6 +8,7 @@ I’m a 17-year-old aspiring software engineer studying Maths, Further Maths, Ph
 - **LearnChess: AI Tutor** – Chess learning app with a minimax algorithm  
 - **Algorithm Project** – Personal project exploring sorting algorithms and efficiency
 
+
 ---
 
 ## 🛠️ Skills & Technologies
